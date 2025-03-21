@@ -40,9 +40,8 @@ Here are some of my best projects:
 ---
 
 ## 📫 **Let's Connect!**  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-📧 **Email:** your.email@example.com  
+💼 **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/andrew-kong-73380b104/)  
+📧 **Email:** andykong0228@gmail.com  
 
 ---
 
