@@ -30,11 +30,11 @@ Here are some of my best projects:
 ---
 
 ## 🛠 **Tech Skills**  
-✔ **Programming:** Python, SQL, R  
+✔ **Programming:** Python, SQL 
 ✔ **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-✔ **Databases:** PostgreSQL, MySQL, SQLite  
+✔ **Databases:** PostgreSQL, MySQL  
 ✔ **Geospatial Analysis:** GIS, QGIS, Folium  
-✔ **Data Visualization:** Power BI, Tableau  
+✔ **Data Visualization:** Power BI  
 ✔ **Machine Learning:** Scikit-learn, TensorFlow (basic)  
 
 ---
