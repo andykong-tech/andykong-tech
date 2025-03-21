@@ -40,7 +40,7 @@ Here are some of my best projects:
 ---
 
 ## 📫 **Let's Connect!**  
-💼 **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/andrew-kong-73380b104/)  
+💼 **LinkedIn:** [linkedin.com/in/Andrew-Kong](https://www.linkedin.com/in/andrew-kong-73380b104/)  
 📧 **Email:** andykong0228@gmail.com  
 
 ---
