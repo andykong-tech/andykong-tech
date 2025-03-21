@@ -9,7 +9,7 @@ I'm a data analyst passionate about **turning raw data into actionable insights*
 ## 🚀 **Featured Projects**  
 Here are some of my best projects:  
 
-### 🏡 [Seattle Airbnb Market Analysis](https://github.com/yourusername/seattle-airbnb-analysis)  
+### 🏡 [Seattle Airbnb Market Analysis](https://github.com/andykong-tech/Seattle-Airbnb-Analysis)  
 **Tech Stack:** PostgreSQL, Python, Pandas, Plotly  
 - Analyzed Airbnb pricing trends, availability, and demand in **Seattle**  
 - Built **interactive maps and visualizations** for insights  
